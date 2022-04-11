@@ -1,3 +1,11 @@
+// import {Text, View} from 'react-native';
+// import React, {Component} from 'react';
+// import LoginScreen from './src/screens/LoginScreen/LoginScreen';
+
+// export default function App() {
+//   return <LoginScreen />;
+// }
+
 /**
  * Sample React Native App
  * https://github.com/facebook/react-native
